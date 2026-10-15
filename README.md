@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/alperen-t%C3%BCrke%C5%9F-879700203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen türkeş" height="30" width="40" /></a>
 <a href="https://instagram.com/aturkes59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aturkes59" height="30" width="40" /></a>
-<a href="/alperenakademi.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="alperenakademi.netlify.app" height="30" width="40" /></a>
+<a href="https://alperenakademi.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="alperenakademi.netlify.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
